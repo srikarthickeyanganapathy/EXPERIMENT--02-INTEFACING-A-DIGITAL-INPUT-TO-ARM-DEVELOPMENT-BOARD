@@ -54,6 +54,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 ```
 NAME:SRI KARTHICKEYAN GANAPATHY
 REF NO:212222240102
+DEPT:ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
 ```
 ```
 #include "main.h"
